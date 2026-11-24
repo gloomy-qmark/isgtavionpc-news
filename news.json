@@ -15,23 +15,6 @@
   },
   "insights": [
     {
-      "id": "insight_3",
-      "category": "TRUSTED SOURCE",
-      "date": "23 NOV 2026",
-      "title": "Industry Insider on PC Port Optimization Cycle",
-      "text": "Reputable tech journalists reiterate that Rockstar typically staggers console and PC rollouts by 12–18 months to maximize architectural optimization.",
-      "links": [
-        {
-          "text": "Digital Foundry Analysis",
-          "url": "https://www.eurogamer.net"
-        },
-        {
-          "text": "Bloomberg Coverage",
-          "url": "https://www.bloomberg.com"
-        }
-      ]
-    },
-    {
       "id": "insight_4",
       "category": "DISCORD/TELEGRAM",
       "date": "22 NOV 2026",
