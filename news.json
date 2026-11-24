@@ -15,27 +15,6 @@
   },
   "insights": [
     {
-      "id": "insight_2",
-      "category": "PROJECTS STATUS",
-      "date": "24 NOV 2026",
-      "title": "Leonida Project DMCA Notice & Shaders",
-      "text": "Community reverse-engineering assets and shader pipelines were archived following a copyright notice. Core executable remains unplayable.",
-      "links": [
-        {
-          "text": "DMCA Archive Notice",
-          "url": "#"
-        },
-        {
-          "text": "Shader Tracker",
-          "url": "#"
-        },
-        {
-          "text": "Project Post-Mortem",
-          "url": "#"
-        }
-      ]
-    },
-    {
       "id": "insight_3",
       "category": "TRUSTED SOURCE",
       "date": "23 NOV 2026",
