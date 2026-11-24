@@ -1,0 +1,99 @@
+{
+  "mode": "no",
+  "progressPercent": 40,
+  "topBanner": {
+    "summary": "AS OF 24.11, GTA VI <u>IS NOT WORKING ON PC!</u>",
+    "details": "DO NOT TRUST PROJECTS THAT CLAIM OTHERWISE, EVEN IF THEY ARE FROM CYBERLEEK OR TAKE‑TWO. THIS WEBSITE WILL ONLY CONTAIN VERIFIED FAN PORTS OR OFFICIAL TAKE‑TWO POSTS."
+  },
+  "takeTwoCard": {
+    "title": "Take-Two PC port",
+    "text": "N/A (Not Announced). No official port is planned for near release."
+  },
+  "fanProjectCard": {
+    "title": "Fan-made Projects",
+    "text": "Leonida taken down recently. Not playable yet, 100% assets/shaders ported."
+  },
+  "insights": [
+    {
+      "id": "insight_1",
+      "category": "OFFICIAL",
+      "date": "24 NOV 2026",
+      "title": "Take-Two Earnings Call Monitoring",
+      "text": "Latest financial disclosure filings mention FY2026-2027 pipeline commitments with no explicit PC release timetable confirmed to investors.",
+      "links": [
+        {
+          "text": "Take-Two IR Report",
+          "url": "https://www.take2games.com/ir"
+        },
+        {
+          "text": "SEC Filing Form 10-Q",
+          "url": "https://www.sec.gov"
+        }
+      ]
+    },
+    {
+      "id": "insight_2",
+      "category": "PROJECTS STATUS",
+      "date": "24 NOV 2026",
+      "title": "Leonida Project DMCA Notice & Shaders",
+      "text": "Community reverse-engineering assets and shader pipelines were archived following a copyright notice. Core executable remains unplayable.",
+      "links": [
+        {
+          "text": "DMCA Archive Notice",
+          "url": "#"
+        },
+        {
+          "text": "Shader Tracker",
+          "url": "#"
+        },
+        {
+          "text": "Project Post-Mortem",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "insight_3",
+      "category": "TRUSTED SOURCE",
+      "date": "23 NOV 2026",
+      "title": "Industry Insider on PC Port Optimization Cycle",
+      "text": "Reputable tech journalists reiterate that Rockstar typically staggers console and PC rollouts by 12–18 months to maximize architectural optimization.",
+      "links": [
+        {
+          "text": "Digital Foundry Analysis",
+          "url": "https://www.eurogamer.net"
+        },
+        {
+          "text": "Bloomberg Coverage",
+          "url": "https://www.bloomberg.com"
+        }
+      ]
+    },
+    {
+      "id": "insight_4",
+      "category": "DISCORD/TELEGRAM",
+      "date": "22 NOV 2026",
+      "title": "Community Group Warns of Fake Injectors",
+      "text": "Public chat groups report spreading trojans masquerading as 'early PC test builds'. Only trust open hashes verified by our portal.",
+      "links": [
+        {
+          "text": "Nobody here but us chickens!",
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "id": "insight_5",
+      "category": "RUMOR/NO PROOFS",
+      "date": "21 NOV 2026",
+      "title": "Unverified Forum Claims Regarding Simultaneous Launcher Drop",
+      "text": "Anonymous Reddit threads claim an unlisted Rockstar Games Launcher repository entry. Zero technical evidence or cryptographic signatures provided.",
+      "links": [
+        {
+          "text": "Nobody here but us chickens!",
+          "disabled": true
+        }
+      ]
+    }
+  ]
+}
