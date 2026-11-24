@@ -13,19 +13,5 @@
     "title": "Fan-made Projects",
     "text": "Leonida taken down recently. Not playable yet, 100% assets/shaders ported."
   },
-  "insights": [
-    {
-      "id": "insight_5",
-      "category": "RUMOR/NO PROOFS",
-      "date": "21 NOV 2026",
-      "title": "Unverified Forum Claims Regarding Simultaneous Launcher Drop",
-      "text": "Anonymous Reddit threads claim an unlisted Rockstar Games Launcher repository entry. Zero technical evidence or cryptographic signatures provided.",
-      "links": [
-        {
-          "text": "Nobody here but us chickens!",
-          "disabled": true
-        }
-      ]
-    }
-  ]
+  "insights": []
 }
