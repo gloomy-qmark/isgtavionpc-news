@@ -15,23 +15,6 @@
   },
   "insights": [
     {
-      "id": "insight_1",
-      "category": "OFFICIAL",
-      "date": "24 NOV 2026",
-      "title": "Take-Two Earnings Call Monitoring",
-      "text": "Latest financial disclosure filings mention FY2026-2027 pipeline commitments with no explicit PC release timetable confirmed to investors.",
-      "links": [
-        {
-          "text": "Take-Two IR Report",
-          "url": "https://www.take2games.com/ir"
-        },
-        {
-          "text": "SEC Filing Form 10-Q",
-          "url": "https://www.sec.gov"
-        }
-      ]
-    },
-    {
       "id": "insight_2",
       "category": "PROJECTS STATUS",
       "date": "24 NOV 2026",
