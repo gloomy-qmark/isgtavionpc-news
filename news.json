@@ -1,17 +1,90 @@
 {
   "mode": "no",
-  "progressPercent": 10,
+  "progressPercent": 42,
   "topBanner": {
     "summary": "AS OF 24.11, GTA VI <u>IS NOT WORKING ON PC!</u>",
     "details": "DO NOT TRUST PROJECTS THAT CLAIM OTHERWISE, EVEN IF THEY ARE FROM CYBERLEEK OR TAKE‑TWO. THIS WEBSITE WILL ONLY CONTAIN VERIFIED FAN PORTS OR OFFICIAL TAKE‑TWO POSTS."
   },
   "takeTwoCard": {
     "title": "Take-Two PC port",
-    "text": "N/A (Not Announced). No official port is planned for near release."
+    "text": "Take-Two Interactive has not announced an official PC port for GTA VI, maintaining focus on console platforms while aggressively protecting intellectual property. The ongoing leak has accelerated community reverse-engineering efforts, but no official timeline or confirmation has been issued. The company's stance remains consistent with prior GTA titles: PC releases arrive only after console campaigns stabilize."
   },
   "fanProjectCard": {
     "title": "Fan-made Projects",
-    "text": "Leonida taken down recently. Not playable yet, 100% assets/shaders ported."
+    "text": "Community-driven PC port projects have achieved significant technical milestones, including bootability, in-game rendering, and initial visuals, but performance remains severely limited at ~4 FPS. Multiple recompilation teams face intermittent setbacks from Rockstar IP enforcement actions, yet momentum remains high with daily progress reported across independent GitHub and compilation projects."
   },
-  "insights": []
+  "insights": [
+    {
+      "category": "PROJECTS STATUS",
+      "date": "24 NOV 2026",
+      "title": "'Like watching the Mona Lisa getting painted': Unofficial GTA 6 PC port makes rapid progress as game is now bootable — albeit in a rough state visually",
+      "text": "'Like watching the Mona Lisa getting painted': Unofficial GTA 6 PC port makes rapid progress as game is now bootable — albeit in a rough state visually",
+      "links": [
+        {
+          "text": "Source Link",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWWFjNEp3S183SHRmNlFiZjJ5T19DVm9BUmxSSkl5cGR5cUdaal9GclRjRnB4YW9WWS0xdlJUX1hUeDl6bXUwS0tnU0xLVEZNRmF3WjRLUmFhamtISlo5TlYtSkQxcjlOOWV0dHlHcUMtakV2VndUMUtTc0swUTh1LUlNU0dmU0c2ekU5bnB3X1JTTUVhN2RYclgzcUVJcTZ4OW9zbTktSW94OTRlaGYwSWhUS1pSRUhxeDdvd0pnc09RRGp6VDk2Ym1PTGYzNzhueTJQdC1Id05EVVRwLU1fS2lnRVJlZkRPNzhSWkNRZkpVam5MeDVLbVd4Slpsa2JvazNRaE13"
+        }
+      ]
+    },
+    {
+      "category": "PROJECTS STATUS",
+      "date": "24 NOV 2026",
+      "title": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida",
+      "text": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
+      "links": [
+        {
+          "text": "Source Link",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFJtY19mV2xyVUVRVlZJMldsMy11SGEyeHZfZ3pzdVpBbVZ4Z2l4eVpWZnc1ajR0c0ZyX3hBS25VMzRGS2Y3UWl5U2stVjVkbC1nbW1aVVRITEEyNmhaZmN1SXROaXZoNUNMS1BPMDhORlk5RnRGMHBPWHU4VFplYWxWOUV2bWJlc2c"
+        }
+      ]
+    },
+    {
+      "category": "PROJECTS STATUS",
+      "date": "24 NOV 2026",
+      "title": "Modders have launched GTA 6 on PC at around 4 FPS.",
+      "text": "Modders have launched GTA 6 on PC at around 4 FPS.",
+      "links": [
+        {
+          "text": "Source Link",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWXI2WEJINHFWdlc1Q0NEeUUzVzYzdWVfSG8xZlBCemZFS0tqcVRJSHdROGJ4c2FLWTdlQVk5cXlsN01jTV9XRkNuTjJBZnpYUDZzcXhDQmhzaTg5QlR3Njc0WGt3X3FlZHg4N3A4U1pkX0k1dExqMUVTSWlhWWZIX0g3bm9IdlZoZEtQQS13dFg"
+        }
+      ]
+    },
+    {
+      "category": "TRUSTED SOURCE",
+      "date": "24 NOV 2026",
+      "title": "CyberLeek Leaks GTA 6's Executable File, and Modders Are Already Working on a Playable PC Version",
+      "text": "CyberLeek Leaks GTA 6's Executable File, and Modders Are Already Working on a Playable PC Version",
+      "links": [
+        {
+          "text": "Source Link",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3NyY0pEVGt0VVhsZDVJOEJIMkZFalJrTHUzMWh6Ym9VeWFMMXJZS1B0UkRwN25SV1BaVElWUGlWbmEtQmV2eEFfV0FvakZYX2o0Z1NheEYwMVBxc2FOOFZMR0c1ZjFnNGxHX0ZXX2RIcnlIOHdCN1lDamhUZXlac2I2TXI0ZFc0U082UnRJUUdfRkVsSnIycFcyNVg2dURhU2xvUTlZbzROdnUxWm5ZNEhlZTRacEcxQkRXZDdhV0JoSXdLSnllUldn"
+        }
+      ]
+    },
+    {
+      "category": "PROJECTS STATUS",
+      "date": "24 NOV 2026",
+      "title": "GTA 6 reportedly reaches in-game rendering on PC just a day after Xbox executable leak",
+      "text": "GTA 6 reportedly reaches in-game rendering on PC just a day after Xbox executable leak",
+      "links": [
+        {
+          "text": "Source Link",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUERCeGRvZHFhb0dZYlkwZ0pfYjBlakhSazZEUTdBT3NlWFRMUjRiMXQ2OGg0anIyYVV4RGEwcno0NUdqbnZzYTloOVd6VWxELWJvclg3aFgwYVp1d3I1dXlTSmhaSXJOb3Z1QmI2a0o0Y2Jadk5ncURnU3hjT3ExVDhNaEZFejVkNXNhMzNUM1A4TDVkRkpvY0ttZ0l2cnVhR0diRXE4V3JicjMzTTZJNmRQWkN0MTg0WUJwc2Z5ZDZ3TElpeDNyM2pBeFRsOU1L"
+        }
+      ]
+    },
+    {
+      "category": "TRUSTED SOURCE",
+      "date": "24 NOV 2026",
+      "title": "Community Efforts to Port GTA 6 to PC and Mac Show Early Success",
+      "text": "Community Efforts to Port GTA 6 to PC and Mac Show Early Success",
+      "links": [
+        {
+          "text": "Source Link",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMGxvdlo0QzBpZlBuNjdBVTMycDQ2M0ttemRyTG8zeTJHbUM1bkE4NUFFdHlmeVpwOFYtWEpreEtWZjdVTEVxc0hlZmZObmp6dk12MWk2TlhIZW9qN1VvUnBFY0F0RWRzMUdTSjJkN0U2U291dkNaSnkwa3dNQWRtZW02blAxbHRXWGxmeTBBZHA5UkNERVE"
+        }
+      ]
+    }
+  ]
 }
