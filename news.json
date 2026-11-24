@@ -15,19 +15,6 @@
   },
   "insights": [
     {
-      "id": "insight_4",
-      "category": "DISCORD/TELEGRAM",
-      "date": "22 NOV 2026",
-      "title": "Community Group Warns of Fake Injectors",
-      "text": "Public chat groups report spreading trojans masquerading as 'early PC test builds'. Only trust open hashes verified by our portal.",
-      "links": [
-        {
-          "text": "Nobody here but us chickens!",
-          "disabled": true
-        }
-      ]
-    },
-    {
       "id": "insight_5",
       "category": "RUMOR/NO PROOFS",
       "date": "21 NOV 2026",
